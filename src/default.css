@@ -1,0 +1,8 @@
+@media (max-width: 1024px) {
+  body {
+    background: red;
+  }
+  html {
+    font-size: 62.5%;
+  }
+}
