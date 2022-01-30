@@ -4,7 +4,7 @@ export const HeaderStyle = styled.header`
   width: 100%;
   height: 100vh;
   background: linear-gradient(#032a5177, rgba(56, 149, 207, 0.231)),
-    url(http://localhost:3000/images/bg1.jpg);
+    url(https://costo-bar.netlify.app/images/bg1.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

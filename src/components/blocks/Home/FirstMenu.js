@@ -27,7 +27,7 @@ const FirstMenu = () => {
     <>
       <FirstMenuStyle>
         <div className="left">
-          <img src="http://localhost:3000/images/hmp1.jpg" alt="" />
+          <img src="https://costo-bar.netlify.app/images/hmp1.jpg" alt="" />
         </div>
         <div className="right">
           {data.map((item) => {

@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const HomePageBannerStyle = styled.div`
   width: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)),
-    url(http://localhost:3000/images/banner1.jpg);
+    url(https://costo-bar.netlify.app/images/banner1.jpg);
   height: 380px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -39,7 +39,7 @@ export const BannerHeroStyle = styled.div`
 export const MenuBannerStyle = styled.div`
   width: 100%;
   background: linear-gradient(#032a516e, rgba(0, 0, 0, 0.8)),
-    url(http://localhost:3000/images/banner2.jpg);
+    url(https://costo-bar.netlify.app/images/banner2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;

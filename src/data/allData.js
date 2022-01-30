@@ -32,9 +32,9 @@ const items = [
       ],
     },
     menuImgData: [
-      "http://localhost:3000/images/m1.jpg",
-      "http://localhost:3000/images/m2.jpg",
-      "http://localhost:3000/images/m3.jpg",
+      "https://costo-bar.netlify.app/images/m1.jpg",
+      "https://costo-bar.netlify.app/images/m2.jpg",
+      "https://costo-bar.netlify.app/images/m3.jpg",
     ],
   },
   {
@@ -94,9 +94,9 @@ const items = [
       ],
     },
     menuImgData: [
-      "http://localhost:3000/images/m4.jpg",
-      "http://localhost:3000/images/m5.jpg",
-      "http://localhost:3000/images/m6.jpg",
+      "https://costo-bar.netlify.app/images/m4.jpg",
+      "https://costo-bar.netlify.app/images/m5.jpg",
+      "https://costo-bar.netlify.app/images/m6.jpg",
     ],
   },
   {

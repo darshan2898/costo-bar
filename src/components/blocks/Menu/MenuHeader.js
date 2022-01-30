@@ -6,8 +6,8 @@ import { useParams, useHistory } from "react-router-dom";
 const MenuHeader = ({ title }) => {
   const [currentState, setCurrentState] = useState(null);
 
-  const bgMenu = "http://localhost:3000/images/bg2.jpg";
-  const bgContact = "http://localhost:3000/images/banner3.jpg";
+  const bgMenu = "https://costo-bar.netlify.app/images/bg2.jpg";
+  const bgContact = "https://costo-bar.netlify.app/images/banner3.jpg";
 
   const name = useHistory();
 

@@ -153,7 +153,6 @@ export const MenuCardStyle = styled.div`
   padding: 1.5em;
   border: 1px solid ${({ theme }) => theme.colors.lightblue};
   transition: ${({ theme }) => theme.locals.transition};
-  //box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   border-radius: 5px;
   .heading {
     display: flex;
@@ -165,7 +164,6 @@ export const MenuCardStyle = styled.div`
       font-size: 1.8rem;
       font-weight: bold;
       word-spacing: 2px;
-      //letter-spacing: 1px;
     }
     h2 {
       color: ${({ theme }) => theme.colors.lightblue};

@@ -18,7 +18,7 @@ const SecondMenu = () => {
         <Link to="/contact">call us today...</Link>
       </div>
       <div className="right">
-        <img src="http://localhost:3000/images/hmp2.jpg" alt="" />
+        <img src="https://costo-bar.netlify.app/images/hmp2.jpg" alt="" />
       </div>
     </SecondMenuStyle>
   );
